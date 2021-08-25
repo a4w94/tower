@@ -1,0 +1,15 @@
+//version :v2.1.1
+// 修改紀錄：
+1.王關 只出現編號8,9,10怪物 
+2. 一般關卡 出現編號1~7怪物
+
+//version :v2.1.2
+// 修改紀錄：
+1. 修改Boss 前兩命擊殺率
+
+//version :v2.1.3
+1.新增過關獎勵 血量 得分加乘 自爆 
+2.將第六到十關出怪歸零
+
+//version :v2.1.4
+1.修改Json黨格式 新增GameGoals,killbonus,symbolbonus,bonustyperate
